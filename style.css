@@ -231,7 +231,6 @@ html {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
-    height: fit-content;
     justify-content: center;
     padding: 75px 0;
   }
