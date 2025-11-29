@@ -232,6 +232,7 @@ html {
   #hero {
     text-align: center;
     justify-content: center;
+    height: 100vh;
     padding: 75px 0;
   }
   @media (min-width:600px) {
